@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Vin Decoder Wordpress Plugin
  * 
